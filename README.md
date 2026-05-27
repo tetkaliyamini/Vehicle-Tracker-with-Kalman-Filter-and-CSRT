@@ -180,7 +180,7 @@ videos/
 Example:
 
 ```text
-videos/video.mp4
+videos/video2.mp4
 ```
 
 ---
